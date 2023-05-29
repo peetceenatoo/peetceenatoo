@@ -3,7 +3,7 @@
     Mattia Piccinato
   </h1>
   <p>
-    Nothing special
+    Nothing special...
   </p>
   
   <h2>
