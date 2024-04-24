@@ -16,7 +16,6 @@
   <img wdith="26px" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img wdith="26px" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img wdith="26px" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img wdith="26px" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
   <img wdith="26px" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest//icons/windows11/windows11-original.svg" />
   <img wdith="26px" height="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
